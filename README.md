@@ -1,1 +1,0 @@
-# mindularity.github.io
