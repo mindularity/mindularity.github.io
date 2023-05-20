@@ -1,3 +1,4 @@
-I am teaching myself the skills required to be a full stack developer. 
+This repository will probably never be used, but I have a strange nostalgic connection to it and so it shall
+remain, like a friendly observer.
 
-This is a personal website to illustrate relevant skillsets, and an expression of myself. 
+
